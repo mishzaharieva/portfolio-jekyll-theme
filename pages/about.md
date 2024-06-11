@@ -19,7 +19,7 @@ permalink: /about
 <p>Security</p>
 
 <h1>Recent Projects</h1>
-
+<p>How can data analytics techniques be leveraged to optimize response times to communication alarms, door held open alerts, and access alarms within Lenel by GSOC, considering contextual factors such as time of day, staffing levels, and historical response patterns, and what actionable insights can be derived to enhance operational efficiency and improve overall security performance?</p>
 <h1>Goals</h1>
 <ul>
   <li><strong>Learning More About Data Analytics:</strong> Enroll in advanced courses and workshops focused on data analytics techniques and tools to deepen understanding and proficiency in this field.</li>
