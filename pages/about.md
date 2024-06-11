@@ -2,4 +2,10 @@
 
 # Mihaela's Portfolio
 
-Isn't it great.
+Name 
+Location 
+Education 
+Industry 
+Recent Porjects 
+Goals
+Professional/Personal Interests 
